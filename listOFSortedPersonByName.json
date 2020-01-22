@@ -1,0 +1,52 @@
+[
+  {
+    "lname": "lakhmaje",
+    "fname": "sanchit",
+    "addobj": {
+      "city": "mumbai",
+      "state": "mahsrathra",
+      "zip": 456546
+    },
+    "phoneNumber": "2343456567"
+  },
+  {
+    "lname": "surve",
+    "fname": "teju",
+    "addobj": {
+      "city": "mumbai",
+      "state": "mahrastra",
+      "zip": 34455
+    },
+    "phoneNumber": "3454465465"
+  },
+  {
+    "lname": "surve",
+    "fname": "tanvi",
+    "addobj": {
+      "city": "mumbai",
+      "state": "maharastra",
+      "zip": 456546
+    },
+    "phoneNumber": "3435565789"
+  },
+  {
+    "lname": "surve",
+    "fname": "teju",
+    "addobj": {
+      "city": "mumbai",
+      "state": "mahrastra",
+      "zip": 34455
+    },
+    "phoneNumber": "3454465465"
+  },
+  {
+    "lname": "surve",
+    "fname": "tanvi",
+    "addobj": {
+      "city": "mumbai",
+      "state": "maharastra",
+      "zip": 456546
+    },
+    "phoneNumber": "3435565789"
+  }
+]
